@@ -22,7 +22,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 600px;
+  width: 800px;
   text-align: center;
   /* background-color: red; */
 }
@@ -58,5 +58,21 @@ aside {
   display: grid;
   grid-column-start: 1;
   grid-column-end: 3;
+}
 
+#fotodeperfil {
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  /* background-color: red; */
+  border: 2px red;
+  padding: 45px;
+}
+
+.textobody {
+  padding: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+  background-color: #f2dfc7;
 }
